@@ -1,6 +1,6 @@
 package com.rajat.spring_webflux_twilio_otp.config;
 
-import lombok.Data;
+import lombok.Data;//getter-setter
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
